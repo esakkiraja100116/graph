@@ -1,0 +1,25 @@
+ id
+ register_number
+ name
+ gender
+ userid
+ password
+ mail_id
+ year
+ department
+ phone_number
+ auth_token
+ lab_name
+ time
+ 
+ 
+ name of the student
+ userid
+ competition name
+ competition date
+ competition status
+ competition win
+ competition loss
+ competition completed
+
+
